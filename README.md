@@ -7,10 +7,10 @@ This Python script processes orders data from a JSON file.
 
 1. Clone the repository:
    ```sh
-   
+   https://github.com/Bhaskar3292/GunturDosa.git
 2. Run the script with the following command
   ```sh
-
+   python app.py example.json
 ```
 ## File Structure
 
